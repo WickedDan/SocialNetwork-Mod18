@@ -2,21 +2,16 @@
 ## Description
 An API for a social network web application utilizing Express.js for routing, a MongoDB database, and the Mongoose ODM.
 ## Installation
-Download the following repository 
+Download the following repository https://github.com/WickedDan/SocialNetwork-Mod18.git
 ## Usuage Information
-Run node index.js on the terminal in the develop folder
-## Contribution Guidelines
-N/A
-## Test Instructions
-N/A
+Run server.js to start server. Use Insomnia to make requests.
 ## Questions 
 If you have questions check out my github WickedDan or you can email me at daniel@wickedflow.com;
 ## Screenshots
-![alt text](../assets/mod1.png)
+![alt text](assets/Samplepic.png)
+## Video Link
+https://youtu.be/4VKDedHGwjg
 ## Deployment Link
-N/A
-## License
-![license](https://img.shields.io/badge/None-License-blue)
-
+(https://github.com/WickedDan/SocialNetwork-Mod18.git)
 
             
